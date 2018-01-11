@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "bili"
+  },
+  "keywords": [],
+  "author": "sinchang <sinchangwen@gmail.com> (http://sinchang.me/)",
+  "license": "MIT",
+  "devDependencies": {
+    "bili": "^1.4.2",
+    "rollup-plugin-postcss": "^1.0.3"
+  }
+}
