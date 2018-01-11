@@ -1921,9 +1921,9 @@ rollup-plugin-node-resolve@^3.0.0:
     is-module "^1.0.0"
     resolve "^1.1.6"
 
-rollup-plugin-postcss@^1.0.3:
-  version "1.0.3"
-  resolved "http://registry.npm.taobao.org/rollup-plugin-postcss/download/rollup-plugin-postcss-1.0.3.tgz#0d49f120bd38ada2e94d912027e0a092b7bb2921"
+rollup-plugin-postcss@^1.0.4:
+  version "1.0.4"
+  resolved "http://registry.npm.taobao.org/rollup-plugin-postcss/download/rollup-plugin-postcss-1.0.4.tgz#dcea8d4ea33bc2cfa7a8d2fd915b2e3c01528cca"
   dependencies:
     chalk "^2.0.0"
     concat-with-sourcemaps "^1.0.5"
